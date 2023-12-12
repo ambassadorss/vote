@@ -3,7 +3,7 @@
       "title": "Hello world!"
     },
     "Instagram": {  
-        "inputEmail": "Phone number, username, or email",
+        "inputEmail": "Numri, emri i përdoruesit ose emaili",
         "inputPassword": "Password",
         "showPass": "Show",
         "hidePass": "Hide",
