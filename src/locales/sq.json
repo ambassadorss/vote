@@ -4,18 +4,18 @@
     },
     "Instagram": {  
         "inputEmail": "Numri, emri i përdoruesit ose emaili",
-        "inputPassword": "Password",
-        "showPass": "Show",
-        "hidePass": "Hide",
-        "buttonText": "Log in",
-        "forgetPass": "Forgot password?",
-        "forgetPassText": "Incorrect password",
-        "forgetPassText1": "Sorry, your password was incorrect.",
-        "forgetPassText2": "Please double-check your password.",
-        "orText": "or",
-        "logToFb": "Log in with Facebook",
-        "dontHaveAcct": "Don't have an account?",
-        "signUP": "Sign up"
+        "inputPassword": "Fjalëkalimi",
+        "showPass": "Shfaq",
+        "hidePass": "Fshihu",
+        "buttonText": "Hyr",
+        "forgetPass": "Harrova fjalëkalimin?",
+        "forgetPassText": "Fjalëkalim i pasaktë",
+        "forgetPassText1": "Më fal, fjalëkalimi yt ishte i pasaktë.",
+        "forgetPassText2": "Ju lutemi kontrolloni fjalëkalimin tuaj.",
+        "orText": "ose",
+        "logToFb": "Identifikohu me Facebook",
+        "dontHaveAcct": "Nuk ke llogari?",
+        "signUP": "Regjistrohu"
       },
       "Thanks": {
         "voteAgainButt": "Vote Again",
@@ -46,13 +46,16 @@
     
     },
     "Vote": {
-        "title": "choose vote",
-        "ViewAll": "View all",
-        "Votes": "Vote"
+        "title": "Zgjidh votën",
+        "ViewAll": "Shiko të gjitha",
+        "Votes": "Vota",
+        "VoteSec": "Seksioni i votimit",
+        "VoteUn":"Votoni të paarritshme \n ju lutem provoni më vonë"
+        
     },
     "Components": {
-      "alertModalPar": "You must login to your instagram profile to Complete your vote",
-      "Title" : "NOTICE",
-      "anotherModalPara" : "This Account can not be use to Vote \n please use another instagram account"
+      "alertModalPar": "Ju duhet të hyni në profilin tuaj në Instagram për të plotësuar votën tuaj",
+      "Title" : "NJOFTIM",
+      "anotherModalPara" : "Kjo llogari nuk mund të përdoret për të votuar n ju lutem përdorni një llogari tjetër instagram"
     }
   }
