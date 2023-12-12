@@ -1,0 +1,60 @@
+{
+    "Index": {
+      "title": "Hello world!"
+    },
+    "Instagram": {  
+        "inputEmail": "Numero, nome utente o e-mail",
+        "inputPassword": "Parola d’ordine",
+        "showPass": "Mostrare",
+        "hidePass": "Nascondere",
+        "buttonText": "Accedi",
+        "forgetPass": "Hai dimenticato la password?",
+        "forgetPassText": "Password errata",
+        "forgetPassText1": "Spiacenti, la password non è corretta.",
+        "forgetPassText2": "Ricontrolla la tua password.",
+        "orText": "o",
+        "logToFb": "Accedi con Facebook",
+        "dontHaveAcct": "Non hai un account?",
+        "signUP": "Registrati"
+      },
+      "Thanks": {
+        "voteAgainButt": "Vote Again",
+        "sectH1": "Thanks for Voting for your friends and Family",
+        "sectP1": "You can also vote again with another instagram profile, their is no limit in voting but note that you can't use one instagram to vote twice",
+        "sectH2": "Welcome to the Ambassador Voting Platform!",
+        "sectP2": "We are thrilled to have you here to participate in the selection of our next ambassador. Your vote matters, and we want to make the process as straightforward as possible. Below, you'll find all the information you need to know about the contestants and how to cast your vote. ",
+        "sectDateH1": "Important Dates",
+        "sectDateSubH1": "Voting Period:",
+        "sectDateSubH2": "Winner Announcement:",
+        "sectDateTo": "To",
+        "sectThanks": "Thank you for being part of this exciting journey to choose our next ambassador. Your voice matters, and we appreciate your participation!",
+        "voiceMat" :"Your voice matters, and we appreciate your participation!",
+        "sectMeetContH": "Meet the Contestants",
+        "Loading": "Loading",
+        "howToVote": "How to Vote",
+        "howToVoteP": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magnam autem, a recusandae vero praesentium qui impedit doloremque molestias.",
+        "FAQH": "Frequently Asked Questions",
+        "FAQSubH1": "Can I change my vote after submitting it?",
+        "FAQP1": "Unfortunately, once you've cast your vote, it cannot be changed. Make sure to choose your favorite before confirming!",
+        "FAQSubH2": "How are the winners determined?",
+        "FAQP2": "The contestant with the highest number of votes at the end of the voting period will be declared the winner.",
+        "FAQSubH3": "Is voting anonymous?",
+        "FAQP3": "Yes, your vote is completely anonymous. We value your privacy.",
+    
+        "anotherModalTitle" : "vote successful!!",
+        "anotherModalPara" : "Your votes has been completed"
+    
+    },
+    "Vote": {
+        "title": "Scegli Vota",
+        "ViewAll": "Vedi tutto",
+        "Votes": "Votare",
+        "VoteSec": "Sezione di voto",
+        "VoteUn":"voto non disponibile \n si prega di provare più tardi"
+    },
+    "Components": {
+      "alertModalPar": "Devi accedere al tuo profilo instagram per completare il tuo voto",
+      "Title" : "AVVISO",
+      "anotherModalPara" : "Questo account non può essere utilizzato per votare \n si prega di utilizzare un altro account instagram"
+    }
+  }
